@@ -1,0 +1,2 @@
+/*
+  Permissions-Policy: camera=*, microphone=*, fullscreen=*, autoplay=*, clipboard-read=*, clipboard-write=*, local-network-access=*, local-network=*, loopback-network=*
